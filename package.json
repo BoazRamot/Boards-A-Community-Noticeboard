@@ -1,0 +1,19 @@
+{
+  "name": "boards-a-community-noticeboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoazRamot/Boards-A-Community-Noticeboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoazRamot/Boards-A-Community-Noticeboard/issues"
+  },
+  "homepage": "https://github.com/BoazRamot/Boards-A-Community-Noticeboard#readme"
+}
